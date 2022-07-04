@@ -1,0 +1,26 @@
+.settings-container {
+    max-width: 970px;
+    margin: auto;
+    margin-top: 18px;
+
+    .downloading-report {
+        display: flex;
+        flex-direction: column;
+        margin-top: 12px;
+
+        .download-files {
+            font-size: 1.4rem;
+        }
+
+        .download-btn-report {
+            width: 240px;
+            border: none;
+            background-color: #0095f6;
+            color: #fff;
+            padding: 8px 18px;
+            border-radius: 4px;
+            margin-top: 8px;
+            cursor: pointer;
+        }
+    }
+}

@@ -1,0 +1,5 @@
+ID: 49
+Username: spotify
+Email: spotify@gmail.com
+Full Name: Spotify Inc.
+Password: $2y$10$.oFcRYFHBchGG0bzYtOnMOeEg6cWM67aNuxrk6e2f0MdOT391yH5S

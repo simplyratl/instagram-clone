@@ -1,0 +1,5 @@
+ID: 50
+Username: instagram
+Email: instagram@gmail.com
+Full Name: Instagram Inc.
+Password: $2y$10$1HgG7sbrbY9yfjJYGXAHNeMEbGzaEaQ8uAOCCf9mZadlGLTdRI5Ei

@@ -1,0 +1,5 @@
+ID: 39
+Username: rafcamora
+Email: rafcamora@gmail.com
+Full Name: Raf Camora
+Password: $2y$10$EBrHTaREAOpFXu7p861FfuhGiYk9aGjexS4KVedTlR2Gg62faJGZ2

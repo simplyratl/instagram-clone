@@ -1,0 +1,5 @@
+ID: 1
+Username: ratl
+Email: ratl@gmail.com
+Full Name: Nikica Raznatovic
+Password: $2y$10$qKhhYJjo7lEW1RrdnoKhfOB2Znj723fxMcMPSA21mhvUPD5p7Us/y
